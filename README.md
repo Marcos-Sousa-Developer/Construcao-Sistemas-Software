@@ -20,45 +20,45 @@ Um jogador indica ao oponente a sua jogada mas este não vê imediatamente qual 
 
 # Instruções   
 
-## Instalar o Tomcat
+#### Instalar o Tomcat
 
 ```bash
 sudo apt-get install tomcat9
 ```
 
-## Configurar o servidor para poder usar o “manager”
+#### Configurar o servidor para poder usar o “manager”
 
 ```bash
 sudo nano /etc/tomcat9/tomcat-users.xml
 ``` 
 
-## Incluir os seguintes detalhes
+#### Incluir os seguintes detalhes
 
 ```
 <role rolename="admin-gui" />
 <role rolename="manager-gui" />
 <user username="your_user_name" password="your_password" roles="admin-gui,manager-gui"/> 
 ```
-## Reiniciar o servidor
+#### Reiniciar o servidor
 
 ```bash
 sudo systemctl restart tomcat9.service
 ```  
-## Compile source code and also package
+#### Compile source code and also package
 
 ```bash
 mvn clean && mvn package
 ```  
-## Aceder à aplicação 
+#### Aceder à aplicação 
 
-localhost:8080/manager/ 
+http://localhost:8080/manager/ 
 
-## Deployment
+#### Deployment
 
-#### 1º Usando o manager, na secção “WAR file to deploy” 
-#### 2º clicar em browse 
-- 3 selecionar o ficheiro ChessBookWEB-0.0.1-SNAPSHOT.war (dentro da pasta target)  
-4: Aceder** localhost:8080/ChessBookWEB-0.0.1-SNAPSHOT/
+**1º:** Usando o manager, na secção “WAR file to deploy” 
+**2º:** Clicar em browse 
+**3*:** Selecionar o ficheiro ChessBookWEB-0.0.1-SNAPSHOT.war (dentro da pasta target)  
+**4*:** Aceder http://localhost:8080/ChessBookWEB-0.0.1-SNAPSHOT/
 
 
 
