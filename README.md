@@ -57,7 +57,7 @@ localhost:8080/manager/
 
 #### 1º Usando o manager, na secção “WAR file to deploy” 
 #### 2º clicar em browse 
-3 selecionar o ficheiro ChessBookWEB-0.0.1-SNAPSHOT.war (dentro da pasta target)  
+- 3 selecionar o ficheiro ChessBookWEB-0.0.1-SNAPSHOT.war (dentro da pasta target)  
 4: Aceder** localhost:8080/ChessBookWEB-0.0.1-SNAPSHOT/
 
 
