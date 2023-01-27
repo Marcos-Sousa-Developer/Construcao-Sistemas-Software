@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGF-bBS1d--DM592E0LbOLxAuLU9AdUVgfvg&usqp=CAU" alt="Logo" width="80">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGF-bBS1d--DM592E0LbOLxAuLU9AdUVgfvg&usqp=CAU" alt="Logo" width="200">
 </p>
 
 # <h1 align="center">Gestor de bloqueios a recursos para leituras e escritas</h1>
