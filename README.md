@@ -53,10 +53,10 @@ mvn clean && mvn package
 
 #### Deployment
 
-**1º:** Usando o manager, na secção “WAR file to deploy” <br>
-**2º:** Clicar em browse <br>
-**3º:** Selecionar o ficheiro ChessBookWEB-0.0.1-SNAPSHOT.war (dentro da pasta target)  <br>
-**4º:** Aceder http://localhost:8080/ChessBookWEB-0.0.1-SNAPSHOT/
+- **1º:** Usando o manager, na secção “WAR file to deploy” <br>
+- **2º:** Clicar em browse <br>
+- **3º:** Selecionar o ficheiro ChessBookWEB-0.0.1-SNAPSHOT.war (dentro da pasta target)  <br>
+- **4º:** Aceder http://localhost:8080/ChessBookWEB-0.0.1-SNAPSHOT/
 
 
 
