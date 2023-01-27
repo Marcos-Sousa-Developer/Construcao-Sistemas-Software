@@ -49,7 +49,7 @@ sudo systemctl restart tomcat9.service
 ```bash
 mvn clean && mvn package
 ```  
-#### Aceder à aplicação http://localhost:8080/manager/ 
+#### Aceder à aplicação: http://localhost:8080/manager/ 
 
 #### Deployment
 
