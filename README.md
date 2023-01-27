@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://img2.gratispng.com/20181028/rhs/kisspng-chessboard-chess-piece-staunton-chess-set-mecabricks-com-chess-5bd5cc6dbbe2c6.5595627115407381577696.jpg" alt="Logo" width="80" height="80">
+    <img src="https://www.ichess.net/wp-content/uploads/2021/07/The-Competition-Series-Plastic-Chess-Pieces-Black.png" alt="Logo" width="80" height="80">
 </p>
 
 # <h1 align="center">Gestor de bloqueios a recursos para leituras e escritas</h1>
