@@ -19,7 +19,6 @@ Um jogador indica ao oponente a sua jogada mas este não vê imediatamente qual 
 <hr>
 
 # Instruções   
-
 #### Instalar o Tomcat
 
 ```bash
