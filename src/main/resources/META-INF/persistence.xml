@@ -11,8 +11,8 @@
     <properties>
       <property name="javax.persistence.jdbc.url" value="jdbc:mysql://appserver-01.alunos.di.fc.ul.pt:3306/csslti012"/>
       <property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
-      <property name="javax.persistence.jdbc.user" value="csslti012"/>
-      <property name="javax.persistence.jdbc.password" value="csslti012"/>
+      <property name="javax.persistence.jdbc.user" value="{YOUR_USER_NAME}"/>
+      <property name="javax.persistence.jdbc.password" value="{YOUR_PASSWORD}"/>
       <property name="javax.persistence.schema-generation.database.action" value="create"/>
 
     </properties>
